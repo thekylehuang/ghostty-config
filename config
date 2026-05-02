@@ -1,0 +1,12 @@
+custom-shader = ./shaders/cursor-warp.glsl
+
+font-family = JetBrainsMono Nerd Font
+font-size = 18
+window-padding-x = 16
+window-padding-y = 0
+window-padding-balance = true
+title = " "
+macos-titlebar-proxy-icon = hidden
+theme = Cole
+cursor-style = block
+shell-integration-features = no-cursor,ssh-env,ssh-terminfo
